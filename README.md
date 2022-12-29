@@ -1,16 +1,29 @@
-# cartapp
+# Cart App
 
-A new Flutter project.
+This project Demonstate JSON handling in the format of a shopping Cart.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+This project covers:
 
-A few resources to get you started if this is your first Flutter project:
+1. Reading data from a JSON file.
+2. Resolving JSON to show data on Home Screen, per Category.
+3. Adding to Cart
+4. Filtering out most 3 Popular items depending on ordered list, and 1 Bestseller marked using ⭐️.
+5. Shows one Cart page.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Packages
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project uses packages like:
+
+- Getx - For easy navigation.
+- GoogleFonts - For look and feel
+
+That's all about this Project.
+
+## Sprint
+
+Sprint - 42 Minutes
+
+This project was completed in 42 Minutes net.
+Sprint included creeating building and pushing to GitHub.
