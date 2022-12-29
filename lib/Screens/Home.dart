@@ -5,7 +5,6 @@ import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:get/get.dart';
 import 'MyCart.dart';
-import 'package:get_storage/get_storage.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});
