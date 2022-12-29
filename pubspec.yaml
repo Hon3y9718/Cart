@@ -49,7 +49,6 @@ dev_dependencies:
   flutter_lints: ^2.0.0
   get: ^4.6.5
   google_fonts: ^3.0.1
-  get_storage: 
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
