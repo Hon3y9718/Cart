@@ -20,7 +20,6 @@ class _HomeState extends State<Home> {
     super.initState();
   }
 
-  GetStorage db = GetStorage();
   var menuItems;
   List allItems = [];
 
